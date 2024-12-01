@@ -1,6 +1,4 @@
-handlers/user_admin_start.txt
 my_account.session-journal
-handlers/GROUP_ID.txt
 my_account.session
 __pycache__/
 config.ini
