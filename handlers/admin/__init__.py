@@ -1,5 +1,6 @@
-from .keyboards import dp
-# from .delete_user import dp
-from .kuni_lingus import dp
+# from .keyboards import dp <- клавиатура для админа
+from .delete_user_in_group import dp
+from .delete_user_in_groups import dp
+
 
 __all__ = ["dp"]

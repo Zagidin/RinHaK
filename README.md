@@ -32,5 +32,13 @@ pip install -r requirements.txt
 ---
 
 ## Перед запуском, создайте файл `.env`
-> API_TOKEN_BOT=<Ваш Токен Бота>
+> `API_TOKEN_BOT`=<Токен Бота>
+> 
+> `USERNAME_BOT`=<Username Телеграм Бота>
+> 
+> `TG_API_ID`=<Ваш api_id>
+> 
+> `TG_API_HASH`=<Ваш api_hash>
+
+Чтобы получить `TG_API_ID` и `TG_API_HASH` перейдите по ссылке https://my.telegram.org/auth создав новый проект API
 ---
